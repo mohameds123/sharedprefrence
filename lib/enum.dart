@@ -1,0 +1,4 @@
+enum MyCacheKeys{
+  email,
+  password,
+}
